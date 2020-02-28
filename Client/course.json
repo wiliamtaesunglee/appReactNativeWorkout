@@ -1,0 +1,254 @@
+[
+	{
+		"id": "6.3s1",
+		"name":"Primeira Semana",
+		"video": "url",
+		"image": "url",
+		"daysWeek": [
+					"Monday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+
+					"Tuesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Wednesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Thursday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Fiday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Saturday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					]
+				]
+	},
+	{
+		"id": "6.3s2",
+		"name":"Segunda  Semana",
+		"video": "url",
+		"image": "url",
+		"daysWeek": [
+					"Monday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+
+					"Tuesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Wednesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Thursday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Fiday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Saturday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					]
+		]
+	},
+	{
+		"id": "6.3s3",
+		"name":"Terceira Semana",
+		"video": "url",
+		"image": "url",
+		"daysWeek": [
+					"Monday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+
+					"Tuesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Wednesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Thursday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Fiday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Saturday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					]
+		]
+	},
+	{
+		"id": "6.3s4",
+		"name":"Quarta Semana",
+		"video": "url",
+		"image": "url",
+		"daysWeek": [
+					"Monday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+
+					"Tuesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Wednesday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Thursday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Fiday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					],
+					"Saturday": [
+						["Pulley Frente", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Pulley Triângulo", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Remada Pronada", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Deltóide Posterior", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Scott", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Rosca Simultânea", "3", "8", "15", "40", "Falha Concêntrica"],
+						["Extensão Lombar", "3", "8", "15", "40", "Falha Concêntrica"]
+					]
+		]
+	}
+]
