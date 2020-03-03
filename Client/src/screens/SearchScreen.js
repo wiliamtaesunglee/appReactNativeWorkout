@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 import SearchBar from '../components/SearchBar';
+import ResultList from '../components/ResultList';
 
 const SearchScreen = () => {
 	const [term, setTerm] = useState('')
@@ -14,6 +15,10 @@ const SearchScreen = () => {
 		console.log(results)
 	};
 
+	useEffect(() => {
+		searchApi();
+	}, [])
+
 	return (
 		<View>
 			<SearchBar 
@@ -21,8 +26,10 @@ const SearchScreen = () => {
 				onTermChange={newTerm => setTerm(newTerm)} 
 				onTermSubmit={() => searchApi()}			
 			/>
-			<Text>Search Screen</Text>
-			<Text>{results.length}</Text>
+			<Text>Ciclos de Treinos</Text>
+			<ResultList title='Mesociclo 1' />
+			<ResultList title='Mesociclo 2' />
+			<ResultList title='Mesociclo 3' />
 		</View>
 	)    
 };
