@@ -21,17 +21,17 @@ const SearchScreen = () => {
 
 	return (
 		<View>
-			<SearchBar 
-				term={term} 
-				onTermChange={newTerm => setTerm(newTerm)} 
-				onTermSubmit={() => searchApi()}			
+			<SearchBar
+				term={term}
+				onTermChange={newTerm => setTerm(newTerm)}
+				onTermSubmit={() => searchApi()}
 			/>
-			<Text>Ciclos de Treinos</Text>
-			<ResultList title='Mesociclo 1' />
-			<ResultList title='Mesociclo 2' />
-			<ResultList title='Mesociclo 3' />
-		</View>
-	)    
+      <Text>Ciclos de Treinos</Text>
+      <ResultList title={results[0].title} description={results[0].description} results={results[0].week}/>
+      <ResultList title={results[1].title} description={results[1].description}/>
+      <ResultList title={results[2].title} description={results[2].description}/>
+    </View>
+	)
 };
 
 const styles = StyleSheet.create({});
